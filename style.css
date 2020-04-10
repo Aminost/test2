@@ -1,0 +1,11 @@
+img {
+    border-radius: 5%;
+}
+span{
+    border: 1px solid darkred;
+    color: red;
+}
+
+div{
+    border: 1px solid blue;
+}
